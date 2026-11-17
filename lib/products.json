@@ -1,0 +1,58 @@
+[
+  {
+    "id": "flower-keychain",
+    "name": "Crochet Flower Keychain",
+    "price": 150,
+    "category": "Keychains",
+    "description": "Handmade crochet roses and floral keychains in lovely colour combinations. Custom colours available on request.",
+    "tagline": "Small gift, big love!",
+    "images": [
+      "/products/set-a-top-right.jpg",
+      "/products/set-b-top-left.jpg",
+      "/products/set-b-bottom-left.jpg",
+      "/products/flower-keychain.jpeg"
+    ],
+    "colors": "Different colours on request",
+    "custom": true
+  },
+  {
+    "id": "bow-keychain",
+    "name": "Crochet Bow Keychain",
+    "price": 39,
+    "category": "Keychains",
+    "description": "Cute handmade crochet bow keychains for your keys or bag.",
+    "tagline": "A little bow, a lot of handmade love!",
+    "images": [
+      "/products/set-a-bottom-right.jpg",
+      "/products/bow-keychain.png"
+    ],
+    "colors": "Different colours on request",
+    "custom": false
+  },
+  {
+    "id": "hairband",
+    "name": "Handmade Crochet Hairband",
+    "price": 50,
+    "category": "Hair Accessories",
+    "description": "Soft handmade crochet headband with a cosy fit. Flower customisation available; additional cost confirmed on request.",
+    "tagline": "Stay stylish, stay handmade!",
+    "images": [
+      "/products/set-a-top-left.jpg"
+    ],
+    "colors": "Different colours on request",
+    "custom": true
+  },
+  {
+    "id": "hair-garland",
+    "name": "Crochet Flower Hair Garland",
+    "price": 99,
+    "category": "Hair Accessories",
+    "description": "Whimsical handcrafted floral garland with beautiful crochet flowers and customised colour combinations.",
+    "tagline": "Make your hair bloom with handmade charm!",
+    "images": [
+      "/products/set-a-bottom-left.jpg"
+    ],
+    "colors": "Different flower combinations on request",
+    "custom": true
+  }
+]
